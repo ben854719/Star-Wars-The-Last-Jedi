@@ -6,4 +6,4 @@ Computer skills: LangChain and LLM.
 
 Reference:
 
-1-	Wikipedia: The Free Encyclopedia (Star Wars: The Last Jedi -2017).
+1-	Wikipedia: The Free Encyclopedia (Star Wars: The Last Jedi - 2017).
