@@ -1,6 +1,6 @@
 Summary:
 
-The project will demonstrate with the use of LLM to analyze the document of the movie (Star Wars: The Last Jedi). I will show you with the use of LangChain that it will save you time and effort for creating templates and prompting for the project.
+The project will demonstrate with the use of LLM to analyze the document of the movie (Star Wars: The Last Jedi). I will show you with the use of LangChain that it will save you time and effort for creating templates and prompting of LLM for the project.
 
 Computer skills: LangChain and LLM.
 
